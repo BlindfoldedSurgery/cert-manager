@@ -1,2 +1,21 @@
+issuer:
+  - name: letsencrypt-issuer
+    email: letsencrypt@carstens.tech
+    cloudflare:
+      email: cloudflare@carstens.tech
+      secret:
+        name: cloudflare-api-token-secret
+        key: api-token
+    dnsZones:
+      - carstens.tech
+      - saufautom.at
+      - timhatdiehandandermaus.consulting
+      - vpm.best
+      - friedhof.party
+      - torbens.recipes
+      - darmstadt.live
+      - abfahrt.io
+
 cert-manager:
   installCRDs: true
+
