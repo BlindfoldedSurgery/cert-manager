@@ -15,6 +15,7 @@ issuer:
       - torbens.recipes
       - darmstadt.live
       - abfahrt.io
+      - woog.chat
 
 cert-manager:
   installCRDs: true
