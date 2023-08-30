@@ -16,6 +16,7 @@ issuer:
       - darmstadt.live
       - abfahrt.io
       - woog.chat
+      - trexflanken.yoga
 
 cert-manager:
   installCRDs: true
