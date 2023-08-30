@@ -17,7 +17,7 @@ issuer:
       - abfahrt.io
       - woog.chat
       - trexflanken.yoga
-
+      - blindfolded.surgery
 cert-manager:
   installCRDs: true
 
