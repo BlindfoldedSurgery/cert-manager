@@ -19,6 +19,7 @@ issuer:
       - trexflanken.yoga
       - trexflunken.yoga
       - blindfolded.surgery
+      - eiersaft.me
 cert-manager:
   installCRDs: true
 
