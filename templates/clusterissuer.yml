@@ -6,7 +6,6 @@ metadata:
 spec:
   acme:
     email: "{{ .email }}"
-    preferredChain: ""
     privateKeySecretRef:
       name: {{ .name }}
     server: https://acme-v02.api.letsencrypt.org/directory
